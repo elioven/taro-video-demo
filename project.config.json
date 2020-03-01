@@ -1,8 +1,8 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "video",
+  "projectname": "taro-video-demo",
   "description": "taro-video-demo",
-  "appid": "touristappid",
+  "appid": "wxd32f511550b01665",
   "setting": {
     "urlCheck": true,
     "es6": false,
